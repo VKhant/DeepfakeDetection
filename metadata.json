@@ -1,0 +1,6 @@
+{
+  "name": "Deepfake Detection AI",
+  "description": "Detect the Fake. Trust the Real. Advanced AI-powered image and video deepfake and manipulation forensics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

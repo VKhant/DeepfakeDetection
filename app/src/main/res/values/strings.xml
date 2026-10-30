@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Deepfake AI</string>
+    <string name="tagline">Detect the Fake. Trust the Real.</string>
+</resources>
